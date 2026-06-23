@@ -3,6 +3,6 @@
   "version": 0,
   "languages": [],
   "kill_switch": false,
-  "min_app_build": { "ios": 3 },
+  "min_app_build": { "ios": 3, "android": 1 },
   "base": "https://cdn.jsdelivr.net/gh/yisa90/rawi-strings@main/rawi/v/0/"
 }
